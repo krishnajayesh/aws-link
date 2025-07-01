@@ -31,7 +31,8 @@ app.get("/", (req,res) => {
                 height: 100vh;
             }
             .message {
-                font-size: 3em;
+                margin-top : 420px;
+                font-size: 6em;
                 font-weight: bold;
                 margin-bottom: 30px;
                 text-shadow: 0 0 10px #00ff00;
